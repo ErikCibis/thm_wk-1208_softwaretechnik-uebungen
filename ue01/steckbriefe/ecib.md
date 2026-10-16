@@ -1,4 +1,4 @@
-# Steckbrief <kürzel>
+# Steckbrief ecib
 
 ## Studiengang und Semester
 
