@@ -1,6 +1,6 @@
 # Rollen — Terminplaner für die THM
 
-Mitgearbeitet haben (GitHub-Benutzernamen, auch bei Einzelarbeit): @…
+Mitgearbeitet haben (GitHub-Benutzernamen, auch bei Einzelarbeit): @ErikCibis
 
 ## Der Kunde
 
